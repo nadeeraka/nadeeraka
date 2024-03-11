@@ -9,7 +9,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadeeraka&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeeraka&&exclude_repo=nadeeraka&layout=compact&theme=dracula" alt="languages"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyyash&theme=radical)
 
 ### Wanna connect with me?
 
