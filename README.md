@@ -8,15 +8,14 @@
 ### My stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadeeraka&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeeraka&&exclude_repo=nadeeraka&layout=compact&theme=dracula" alt="languages"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadeeraka&show_icons=true&locale=en&layout=compact" alt="nadeeraka" /></p>
+### Wanna connect with me?
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadeeraka&show_icons=true&locale=en" alt="nadeeraka" /></p>
+- 👨‍💻 Connect with me [https://nadeeraka.netlify.app/](https://nadeeraka.netlify.app/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeeraka&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeraka" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://nadeeraka.netlify.app/](https://nadeeraka.netlify.app/)
+### Wanna read my articles?
 
 - 📝 I regularly write articles on [https://n2blog.netlify.app/](https://n2blog.netlify.app/)
 
