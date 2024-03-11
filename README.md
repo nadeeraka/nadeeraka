@@ -3,7 +3,7 @@
 ### Who am I?
 
 <h1 align="center">Hi 👋, I'm Nadeeraka</h1>
-<h3 align="center">Experienced Software Engineer with a passion for web application development and a strong drive to leverage technology to create innovative solutions.</h3>
+<h3 align="center">Experienced Software Engineer with a passion for web application development and a strong drive to leverage technology to create innovative solutions 🌱.</h3>
 
 ### My stats
 
