@@ -19,7 +19,6 @@
 
 - 📝 I regularly write articles on [https://n2blog.netlify.app/](https://n2blog.netlify.app/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nimantha-nadeeraka-b5811b278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nimantha-nadeeraka-b5811b278/" height="30" width="40" /></a>
 </p>
