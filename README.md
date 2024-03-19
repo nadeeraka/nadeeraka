@@ -8,11 +8,11 @@
 ### My stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadeeraka&show_icons=true&layout-compact&theme=tokyonight&&hide_border=true&count_private=true&include_all_commits=true" alt="nadeeraka" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadeeraka&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadeeraka&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" /> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeeraka&theme=radical)
 
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeeraka&theme=dark" alt="Assassin-1234" /> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeeraka&theme=dark" alt="nadeeraka" />
 
 ### Wanna connect with me?
 
