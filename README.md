@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,prisma,mysql,nextjs,vercel&perline=10)
+![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,prisma,mysql,nextjs,nestjs,nodejs,aws,vercel&perline=10)
 
 ![Other](https://skillicons.dev/icons?i=git,rust,go,docker,lua,py,linux,vscode&perline=10)
 </br>
