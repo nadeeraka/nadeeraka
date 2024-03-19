@@ -11,6 +11,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeeraka&theme=radical)
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeeraka&theme=dark" alt="Assassin-1234" />
+
 ### Wanna connect with me?
 
 - 👨‍💻 Connect with me [https://nadeeraka.netlify.app/](https://nadeeraka.netlify.app/)
