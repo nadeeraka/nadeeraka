@@ -10,14 +10,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadeeraka&show_icons=true&layout-compact&theme=tokyonight&&hide_border=true&count_private=true&include_all_commits=true" alt="nadeeraka" /> 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadeeraka&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" /> -->
 
-### Technologies
-
-<p align="center">
-  <a href="https://profile.codersrank.io/user/nadeeraka" target="_blank">
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nadeeraka&skills=java,python,ballerina,shell,bal&width=640" alt="CodersRank skills chart"/>
-  </a>
-</p>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeeraka&theme=radical)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeeraka&theme=dark" alt="nadeeraka" />
